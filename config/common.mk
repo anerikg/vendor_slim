@@ -88,7 +88,10 @@ PRODUCT_PACKAGES += \
     SlimWallpapers \
     LatinIME \
     BluetoothExt \
-    WallpaperPicker
+    WallpaperPicker \
+    messaging \
+    Phonograph \
+    Chromium
 
 #    SlimFileManager removed until updated
 
