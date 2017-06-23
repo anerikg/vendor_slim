@@ -91,7 +91,8 @@ PRODUCT_PACKAGES += \
     WallpaperPicker \
     messaging \
     Phonograph \
-    Chromium
+    Chromium \
+    Calendar
 
 #    SlimFileManager removed until updated
 
