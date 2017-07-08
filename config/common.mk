@@ -92,7 +92,10 @@ PRODUCT_PACKAGES += \
     messaging \
     Phonograph \
     Chromium \
-    Calendar
+    Calendar \
+    MusicFX \
+    audio_effects.conf \
+    libcyanogen-dsp
 
 #    SlimFileManager removed until updated
 
